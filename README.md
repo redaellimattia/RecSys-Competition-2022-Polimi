@@ -8,10 +8,10 @@ The application domain is TV shows recommendation. The datasets provided contain
 
 ## 🗒 Introduction
 
-Most of the models come from the [src](/src) folder which is a clone of the [course repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi), please refer to the repository for the installation guide.   
+Most of the models come from the [src](/src) folder which is a clone of the [course repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi), please refer to the repository for the installation guide.  
 Our aim was to find the best scoring model by tuning and combining them with the techniques seen during the course.
 
-The [data_util.py](/util/data_util.py) has been used to ease the handling of the dataset.
+The [data_util.py](/utils/data_util.py) has been used to ease the handling of the dataset.
 
 ## 🎯 Final Model
 
