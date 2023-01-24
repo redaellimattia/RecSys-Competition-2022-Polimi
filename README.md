@@ -16,7 +16,7 @@ The [data_util.py](/utils/data_util.py) has been used to ease the handling of th
 ## 🎯 Final Model
 
 After testing out a lot of approaches, **RP3Beta** seemed the best recommender for this competition.  
-In the end also **SLIM ElasticNet** (after a lot of tuning 🥵) had good recommendations.
+Also **SLIM ElasticNet** (after a lot of tuning 🥵) produced good recommendations.
 
 In the end an hybrid of the two has been used.
 Here's the list of links to the notebooks used for the final model:
