@@ -23,6 +23,6 @@ Here's the list of links to the notebooks used for the final model:
 
 - [RP3Beta](/notebooks/RP3_Beta_HT.ipynb): This notebook implements RP3Beta and performs hyper tuning of its parameters.
 
-- [SLIM ElasticNet](/notebooks/SLIM_ElasticNet_HT.ipynb): This notebook implements RP3Beta and performs hyper tuning of its parameters.
+- [SLIM ElasticNet](/notebooks/SLIM_ElasticNet_HT.ipynb): This notebook implements SLIM ElasticNet and performs hyper tuning of its parameters.
 
 - [Hybrid](/notebooks/Hybrid_RP3Beta_SLIMElasticNet_HT.ipynb): This notebook performs a linear combination of the two recommenders, using their best parameters.
